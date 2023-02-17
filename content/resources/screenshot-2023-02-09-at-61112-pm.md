@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/course-1/screenshot-2023-02-09-at-61112-pm.png
+file: /courses/123456abc-course-1s-spring-2024/screenshot-2023-02-09-at-61112-pm.png
 file_type: image/png
 image_metadata:
   caption: ''
