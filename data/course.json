@@ -1,0 +1,31 @@
+{
+  "term": "Spring",
+  "year": "2024",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "course-1"
+  },
+  "course_image": {
+    "content": "",
+    "website": "course-1"
+  },
+  "course_title": "Course 1s",
+  "course_description": "sdfsdfsdf",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "123456abc",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "course-1"
+  },
+  "learning_resource_types": [],
+  "site_uid": "f42425a6-1f1b-4f0f-898b-989c51413282",
+  "site_short_id": "course-1"
+}
