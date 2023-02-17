@@ -1,0 +1,9 @@
+leftnav:
+- identifier: a40b2cd0-324c-498d-a685-396962191e67
+  name: page one link
+  url: /pages/sdf
+  weight: 10
+- identifier: 281d9c30-65ae-422f-aabd-3853cbc9b78a
+  name: resource link
+  url: /resources/screenshot-2023-02-09-at-61217-pm
+  weight: 20
