@@ -1,9 +1,9 @@
 leftnav:
-- identifier: a40b2cd0-324c-498d-a685-396962191e67
-  name: page one link
-  url: /pages/sdf
+- identifier: 7a7dc326-dd34-4167-919d-167d7c05999a
+  name: page 1
+  url: /pages/sadfasd
   weight: 10
-- identifier: 281d9c30-65ae-422f-aabd-3853cbc9b78a
-  name: resource link
-  url: /resources/screenshot-2023-02-09-at-61217-pm
+- identifier: 7df6fe73-1001-4851-8adb-a8b2aab727ac
+  name: Video
+  url: /resources/tiny-video
   weight: 20
