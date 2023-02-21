@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/course-1/tiny-video.srt
+file: /courses/111-sdfsdf-spring-2023/tiny-video.srt
 file_type: application/octet-stream
 image_metadata:
   caption: ''
