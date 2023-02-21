@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/123456abc-course-1s-spring-2024/screenshot-2023-02-09-at-61112-pm.png
+file: /courses/course-1/screenshot-2023-02-09-at-61112-pm.png
 file_type: image/png
 image_metadata:
   caption: ''
@@ -12,7 +12,7 @@ learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Image
 title: Screenshot 2023-02-09 at 6.11.12 PM.png
-uid: 9781d079-3614-47ca-b760-698cc1819d72
+uid: 1d148e02-19a1-4b01-8ad6-c739a7483b8d
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

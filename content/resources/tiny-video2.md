@@ -2,17 +2,17 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/course-1/screenshot-2023-02-09-at-61100-pm.png
-file_type: image/png
+file: /gdrive_uploads/course-1/15rqIzUa0-Nc4BooN0iZIsKvBT2O6Phw1/tiny-video.mp4
+file_type: video/mp4
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-resourcetype: Image
-title: Screenshot 2023-02-09 at 6.11.00 PM.png
-uid: 943c8de3-c762-49d7-9029-bbd3719a16f0
+resourcetype: Video
+title: tiny-video.mp4
+uid: 7df6fe73-1001-4851-8adb-a8b2aab727ac
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''
